@@ -1,0 +1,11 @@
+C:\Users\teacher\Desktop\Homework\Chapter 14\Exercises14\TestFileAndDirectory\bin\Debug\TestFileAndDirectory.exe.config
+C:\Users\teacher\Desktop\Homework\Chapter 14\Exercises14\TestFileAndDirectory\bin\Debug\TestFileAndDirectory.exe
+C:\Users\teacher\Desktop\Homework\Chapter 14\Exercises14\TestFileAndDirectory\bin\Debug\TestFileAndDirectory.pdb
+C:\Users\teacher\Desktop\Homework\Chapter 14\Exercises14\TestFileAndDirectory\obj\Debug\TestFileAndDirectory.exe
+C:\Users\teacher\Desktop\Homework\Chapter 14\Exercises14\TestFileAndDirectory\obj\Debug\TestFileAndDirectory.pdb
+E:\C#\Chapter 14\Exercises14\TestFileAndDirectory\bin\Debug\TestFileAndDirectory.exe.config
+E:\C#\Chapter 14\Exercises14\TestFileAndDirectory\obj\Debug\TestFileAndDirectory.exe
+E:\C#\Chapter 14\Exercises14\TestFileAndDirectory\obj\Debug\TestFileAndDirectory.pdb
+E:\C#\Chapter 14\Exercises14\TestFileAndDirectory\bin\Debug\TestFileAndDirectory.exe
+E:\C#\Chapter 14\Exercises14\TestFileAndDirectory\bin\Debug\TestFileAndDirectory.pdb
+E:\C#\Chapter 14\Exercises14\TestFileAndDirectory\obj\Debug\TestFileAndDirectory.csprojResolveAssemblyReference.cache
