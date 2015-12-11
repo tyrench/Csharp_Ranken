@@ -1,0 +1,5 @@
+C:\Users\teacher\Desktop\Homework\Chapter 6\Exercises\TemperatureList\bin\Debug\TemperatureList.exe.config
+C:\Users\teacher\Desktop\Homework\Chapter 6\Exercises\TemperatureList\bin\Debug\TemperatureList.exe
+C:\Users\teacher\Desktop\Homework\Chapter 6\Exercises\TemperatureList\bin\Debug\TemperatureList.pdb
+C:\Users\teacher\Desktop\Homework\Chapter 6\Exercises\TemperatureList\obj\Debug\TemperatureList.exe
+C:\Users\teacher\Desktop\Homework\Chapter 6\Exercises\TemperatureList\obj\Debug\TemperatureList.pdb
