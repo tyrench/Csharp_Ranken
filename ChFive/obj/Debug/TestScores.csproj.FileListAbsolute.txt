@@ -1,0 +1,6 @@
+C:\Users\teacher\Desktop\Homework\Chapter 5\ch5Exercises\TestScores\bin\Debug\TestScores.exe.config
+C:\Users\teacher\Desktop\Homework\Chapter 5\ch5Exercises\TestScores\bin\Debug\TestScores.exe
+C:\Users\teacher\Desktop\Homework\Chapter 5\ch5Exercises\TestScores\bin\Debug\TestScores.pdb
+C:\Users\teacher\Desktop\Homework\Chapter 5\ch5Exercises\TestScores\obj\Debug\TestScores.csprojResolveAssemblyReference.cache
+C:\Users\teacher\Desktop\Homework\Chapter 5\ch5Exercises\TestScores\obj\Debug\TestScores.exe
+C:\Users\teacher\Desktop\Homework\Chapter 5\ch5Exercises\TestScores\obj\Debug\TestScores.pdb
