@@ -1,0 +1,12 @@
+C:\Users\teacher\Desktop\Homework\Chapter 11\ChElevenExercises\BookExceptionDemo\bin\Debug\BookExceptionDemo.exe.config
+C:\Users\teacher\Desktop\Homework\Chapter 11\ChElevenExercises\BookExceptionDemo\bin\Debug\BookExceptionDemo.exe
+C:\Users\teacher\Desktop\Homework\Chapter 11\ChElevenExercises\BookExceptionDemo\bin\Debug\BookExceptionDemo.pdb
+C:\Users\teacher\Desktop\Homework\Chapter 11\ChElevenExercises\BookExceptionDemo\obj\Debug\BookExceptionDemo.exe
+C:\Users\teacher\Desktop\Homework\Chapter 11\ChElevenExercises\BookExceptionDemo\obj\Debug\BookExceptionDemo.pdb
+C:\Users\teacher\Desktop\Homework\Chapter 11\ChElevenExercises\BookExceptionDemo\obj\Debug\BookExceptionDemo.csprojResolveAssemblyReference.cache
+E:\C#\Chapter 11\ChElevenExercises\BookExceptionDemo\bin\Debug\BookExceptionDemo.exe.config
+E:\C#\Chapter 11\ChElevenExercises\BookExceptionDemo\obj\Debug\BookExceptionDemo.exe
+E:\C#\Chapter 11\ChElevenExercises\BookExceptionDemo\obj\Debug\BookExceptionDemo.pdb
+E:\C#\Chapter 11\ChElevenExercises\BookExceptionDemo\bin\Debug\BookExceptionDemo.exe
+E:\C#\Chapter 11\ChElevenExercises\BookExceptionDemo\bin\Debug\BookExceptionDemo.pdb
+E:\C#\Chapter 11\ChElevenExercises\BookExceptionDemo\obj\Debug\BookExceptionDemo.csprojResolveAssemblyReference.cache
